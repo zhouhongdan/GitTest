@@ -1,1 +1,1 @@
-console.log('这是APPjs')
+console.log('这是APP')
